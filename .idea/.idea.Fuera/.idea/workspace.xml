@@ -4,12 +4,33 @@
     <projectFile>Intermediate/ProjectFiles/Fuera.vcxproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a57f9ddb-9612-406d-b49f-c4c120004c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fuera.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Fuera.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Brass.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Broken_Concrete_Walls.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Cone_Brush_StaticMesh.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/SM_Door_Frame.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_Concrete_RoughWall_1K_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_Concrete_RoughWall_1K_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_OldWood_3_5x3_5_1K_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_OldWood_3_5x3_5_1K_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_OldWood_3_5x3_5_1K_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Wood.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_ao.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_height.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_metallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_normal-dx.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_preview.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_roughness_Mat.uasset" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,18 +40,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24ejYaqomFypyTT4npSyM1hJPjj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager" selected="C++ Project.Fuera">
     <configuration name="Fuera" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -259,6 +288,8 @@
       <workItem from="1644256613178" duration="79000" />
       <workItem from="1644256817802" duration="2463000" />
       <workItem from="1644259364558" duration="1871000" />
+      <workItem from="1644858140809" duration="5086000" />
+      <workItem from="1644866515757" duration="714000" />
     </task>
     <servers />
   </component>
