@@ -10,27 +10,58 @@
   <component name="ChangeListManager">
     <list default="true" id="a57f9ddb-9612-406d-b49f-c4c120004c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Brass.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Broken_Concrete_Walls.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Cone_Brush_StaticMesh.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Brass.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Stone.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Stone_Frame.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Concrete_RoughWall_1K_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Concrete_RoughWall_1K_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_albedo_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_normal_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_roughness_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_ao.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_height.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_ao.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_height.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_normal.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Tile.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Tile_Floor.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/UV_Test.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Wood.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Wood_Door.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_ao.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_height.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_metallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_normal-dx.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_preview.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_roughness_Mat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/gold.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/gold_lamp.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-ao.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-height.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-metallic.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-normal-dx.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-roughness.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_albedo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_ao.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_height.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_normal-ogl.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/SM_Door_Frame.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_Concrete_RoughWall_1K_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_Concrete_RoughWall_1K_normal.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_OldWood_3_5x3_5_1K_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_OldWood_3_5x3_5_1K_normal.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/TexturesCom_OldWood_3_5x3_5_1K_roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Wood.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_ao.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_height.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_metallic.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_normal-dx.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_preview.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/angled-tiled-floor_roughness_Mat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/SM_DoorFrame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_DoorFrame.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,6 +321,11 @@
       <workItem from="1644259364558" duration="1871000" />
       <workItem from="1644858140809" duration="5086000" />
       <workItem from="1644866515757" duration="714000" />
+      <workItem from="1645091079102" duration="2872000" />
+      <workItem from="1645134859088" duration="548000" />
+      <workItem from="1645313270464" duration="766000" />
+      <workItem from="1645314173443" duration="3961000" />
+      <workItem from="1645436650730" duration="921000" />
     </task>
     <servers />
   </component>
