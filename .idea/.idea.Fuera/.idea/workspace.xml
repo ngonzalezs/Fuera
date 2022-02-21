@@ -10,56 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a57f9ddb-9612-406d-b49f-c4c120004c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Brass.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Stone.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Stone_Frame.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Concrete_RoughWall_1K_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Concrete_RoughWall_1K_normal.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_albedo_0.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_normal.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_normal_0.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_OldWood_3_5x3_5_1K_roughness_0.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_ao.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_height.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_normal.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Pavement_CobblestoneMedieval12_4x4_1K_roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_ao.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_height.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_normal.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/TexturesCom_Wood_WallPanel2_1K_roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Tile.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Tile_Floor.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/UV_Test.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Wood.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/Wood_Door.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_ao.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_height.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_metallic.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_normal-dx.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_preview.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/angled-tiled-floor_roughness_Mat.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/gold.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/gold_lamp.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-ao.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-height.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-metallic.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-normal-dx.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/ornate-celtic-gold-roughness.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_albedo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_ao.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_height.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/Materials_and_Textures/rich-brown-tile-variation_normal-ogl.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Models/SM_DoorFrame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_DoorFrame.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" afterDir="false" />
     </list>
@@ -79,18 +30,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="RunManager" selected="C++ Project.Fuera">
     <configuration name="Fuera" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -326,6 +269,8 @@
       <workItem from="1645313270464" duration="766000" />
       <workItem from="1645314173443" duration="3961000" />
       <workItem from="1645436650730" duration="921000" />
+      <workItem from="1645465167077" duration="1231000" />
+      <workItem from="1645467679151" duration="2448000" />
     </task>
     <servers />
   </component>
