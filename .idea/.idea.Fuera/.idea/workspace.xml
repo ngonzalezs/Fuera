@@ -10,9 +10,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a57f9ddb-9612-406d-b49f-c4c120004c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="C++ Project.Fuera">
     <configuration name="Fuera" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -271,6 +276,8 @@
       <workItem from="1645436650730" duration="921000" />
       <workItem from="1645465167077" duration="1231000" />
       <workItem from="1645467679151" duration="2448000" />
+      <workItem from="1645526423699" duration="208000" />
+      <workItem from="1645553524179" duration="3062000" />
     </task>
     <servers />
   </component>
