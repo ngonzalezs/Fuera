@@ -10,11 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a57f9ddb-9612-406d-b49f-c4c120004c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/DefaultPawn_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/DefaultPawn_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Fuera/Grabber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/Grabber.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Fuera/Grabber.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/Grabber.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" afterDir="false" />
     </list>
@@ -288,6 +284,7 @@
       <workItem from="1645638322481" duration="3942000" />
       <workItem from="1645810073895" duration="3258000" />
       <workItem from="1645813596687" duration="2673000" />
+      <workItem from="1646218649967" duration="2100000" />
     </task>
     <servers />
   </component>
