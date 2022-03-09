@@ -10,9 +10,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a57f9ddb-9612-406d-b49f-c4c120004c42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fuera/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Door.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/DefaultPawn_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/DefaultPawn_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/Level1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Level1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_Door.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Models/SM_DoorFrame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Models/SM_DoorFrame.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Fuera/OpenDoor.h" afterDir="false" />
     </list>
@@ -289,6 +292,8 @@
       <workItem from="1646218649967" duration="2100000" />
       <workItem from="1646302031742" duration="455000" />
       <workItem from="1646303097651" duration="1595000" />
+      <workItem from="1646830554642" duration="5621000" />
+      <workItem from="1646852084100" duration="1970000" />
     </task>
     <servers />
   </component>
